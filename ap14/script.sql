@@ -1,0 +1,3 @@
+-- 1.1
+ALTER TABLE tb_pessoa
+ADD COLUMN ativo BOOLEAN DEFAULT TRUE;
